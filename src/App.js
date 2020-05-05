@@ -39,7 +39,7 @@ function App() {
         <p2>Currently I am looking for 8-month internship opportunities starting September 2020.</p2>
         <p2>Feel free to reach out!</p2>
       </body>
-      <p3 id="section03">Made with 💖 by Mihir 2020</p3>
+      <p3 id="section03">Made with 💖 by Mihir || Last Updated May 2020</p3>
     </div>
   );
 }
