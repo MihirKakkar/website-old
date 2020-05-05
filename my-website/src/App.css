@@ -16,8 +16,15 @@ p {
   font-family: 'Patua One', cursive;
 }
 
-p2 {
-  
+p3 {
+  font-size: small;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: black;
+  color: white;
+  min-height: 6vh;
 }
 
 i {
@@ -61,7 +68,7 @@ i {
 
 .App-body {
   background-color: #000000;
-  min-height: 100vh;
+  min-height: 97vh;
   display: flex;
   flex-direction: column;
   align-items: center;
